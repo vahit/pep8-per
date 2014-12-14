@@ -1,0 +1,34 @@
+Introduction								[Done]
+A Foolish Consistency is the Hobgoblin of Little Minds			[Done]
+Code lay-out
+    Indentation								[Done]
+    Tabs or Spaces?
+    Maximum Line Length							[Done]
+    Blank Lines
+    Source File Encoding
+    Imports
+String Quotes
+Whitespace in Expressions and Statements
+    Pet Peeves
+    Other Recommendations
+Comments
+    Block Comments
+    Inline Comments
+    Documentation Strings
+Version Bookkeeping
+Naming Conventions
+    Overriding Principle
+    Descriptive: Naming Styles
+    Prescriptive: Naming Conventions
+        Names to Avoid
+        Package and Module Names
+        Class Names
+        Exception Names
+        Global Variable Names
+        Function Names
+        Function and method arguments
+        Method Names and Instance Variables
+        Constants
+        Designing for inheritance
+    Public and internal interfaces
+Programming Recommendations 
