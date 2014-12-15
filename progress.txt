@@ -2,7 +2,7 @@ Introduction								[Done]
 A Foolish Consistency is the Hobgoblin of Little Minds			[Done]
 Code lay-out
     Indentation								[Done]
-    Tabs or Spaces?
+    Tabs or Spaces?							[Done]
     Maximum Line Length							[Done]
     Blank Lines
     Source File Encoding
