@@ -4,9 +4,9 @@ Code lay-out
     Indentation								[Done]
     Tabs or Spaces?							[Done]
     Maximum Line Length							[Done]
-    Blank Lines
-    Source File Encoding
-    Imports
+    Blank Lines								[Done]
+    Source File Encoding						[Done]
+    Imports								[Done]
 String Quotes
 Whitespace in Expressions and Statements
     Pet Peeves
