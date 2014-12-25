@@ -7,7 +7,7 @@ Code lay-out
     Blank Lines								[Done]
     Source File Encoding						[Done]
     Imports								[Done]
-String Quotes
+String Quotes								[Done]
 Whitespace in Expressions and Statements
     Pet Peeves
     Other Recommendations
