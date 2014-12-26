@@ -19,11 +19,11 @@ String Quotes								[Done]
 Whitespace in Expressions and Statements				[Done]
     Pet Peeves								[Done]
     Other Recommendations						[Done]
-Comments
-    Block Comments
-    Inline Comments
-    Documentation Strings
-Version Bookkeeping
+Comments  								[Done]
+    Block Comments							[Done]
+    Inline Comments							[Done]
+    Documentation Strings						[Done]
+Version Bookkeeping							[ignored]
 Naming Conventions
     Overriding Principle
     Descriptive: Naming Styles
