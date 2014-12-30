@@ -23,9 +23,9 @@ Comments  							[Done]
     Block Comments						[Done]
     Inline Comments						[Done]
     Documentation Strings					[Done]
-Version Bookkeeping						[ignored]
+Version Bookkeeping						[Ignored]
 Naming Conventions
-    Overriding Principle
+    Overriding Principle					[Ignores]
     Descriptive: Naming Styles
     Prescriptive: Naming Conventions
         Names to Avoid
