@@ -26,13 +26,13 @@ Comments  							[Done]
 Version Bookkeeping						[Ignored]
 Naming Conventions
     Overriding Principle					[Ignores]
-    Descriptive: Naming Styles
-    Prescriptive: Naming Conventions
-        Names to Avoid
-        Package and Module Names
-        Class Names
-        Exception Names
-        Global Variable Names
+    Descriptive: Naming Styles					[Done]
+    Prescriptive: Naming Conventions				[Done]
+        Names to Avoid	 					[Done]
+        Package and Module Names				[Done]
+        Class Names 	   					[Done]
+        Exception Names						[Ignored]
+        Global Variable Names					[Ignored]
         Function Names
         Function and method arguments
         Method Names and Instance Variables
