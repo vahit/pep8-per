@@ -73,4 +73,4 @@ result = some_function_that_takes_arguments(
 
 <p align=right>‫در مورد طول خطوط دستورات صحبت کردیم ولی باید این نکته رو هم در نظر داشته باشیم که طول خطوط با ساختار‌های محدود (توضیحات و docstringها) ۷۲ کاراکتر هست. </p>
 
-<p align=center><a href="https://github.com/vahit/pep8-per/blob/master/partiii.md">بعدی</a> <a href="https://github.com/vahit/pep8-per/blob/master/partii.md">قبلی</a></p>
+<p align=center><a href="https://github.com/vahit/pep8-per/blob/master/partiii.md">بعدی</a> <a href="https://github.com/vahit/pep8-per/blob/master/intro.md">قبلی</a></p>
