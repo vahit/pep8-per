@@ -35,6 +35,6 @@
 
 <p align=right>‫* \_\_دوخط‌زیر\_در ابتدا:XXXXXXXXXXXXX</p>
 
-<p align=right>‫* \_\_دوخط‌زیر\_درابتدا\_وانتها\_\_: اشیاء و خصوصیات جادویی که در فضای نام کاربری موجود هستند3. مانند \_\_init\_\_، \_\_import\_\_ یا \_\_file\_\_. هرگز از چنین اسامی استفاده نکنید، مگر برای استفاده در مستندسازی.</p>
+<p align=right>‫* __دوخط‌زیر_درابتدا_وانتها__: اشیاء و خصوصیات جادویی که در فضای نام کاربری موجود هستند3. مانند __init__، __import__ یا __file__. هرگز از چنین اسامی استفاده نکنید، مگر برای استفاده در مستندسازی.</p>
 
 <p align=center><a href="https://github.com/vahit/pep8-per/blob/master/partvii.md">بعدی</a> <a href="https://github.com/vahit/pep8-per/blob/master/partv.md">قبلی</a></p>
