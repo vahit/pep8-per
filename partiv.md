@@ -122,3 +122,6 @@ Definitely No:
 
     if foo == 'blah': one(); two(); three()
 </code></pre>
+
+<p align=center><a href="https://github.com/vahit/pep8-per/blob/master/partv.md">بعدی</a> <a href="https://github.com/vahit/pep8-per/blob/master/partiii.md">قبلی</a></p>
+<p align=right>
