@@ -17,7 +17,7 @@
 <pre><code>import sys, os
 </code></pre>
 
-<p align=right>‫بهتر باید بنویسیم:</p>
+<p align=right>‫باید بنویسیم:</p>
 
 <pre><code>import sys
 import os
